@@ -9,14 +9,14 @@ int main () {
 	//partes do if
 	switch (escolha) {
 		case 1:{
-			printf("Para ser um hacker voce deve ter um conhecimento de sistema operacionais, de programaÁ„o,e de redes");
+			printf("Para ser um hacker voce deve ter um conhecimento de sistema operacionais, de programa√ß√£o,e de redes");
 			break;
 		case 2:{
 			printf("Para aprender soobre redes use a dorck a seguir para conseguir livros sobre rede \n redes filetype: pdf");
 			break;
 		}
 		case 3:{
-			printf("Use o sistema que te deixa feliz :) \n eu gosto do linux pq o codigo fonte È aberto, assim eu modifico para ficar da forma que eu preciso");
+			printf("Use o sistema que te deixa feliz :) \n eu gosto do linux pq o codigo fonte √© aberto, assim eu modifico para ficar da forma que eu preciso");
 			break;
 		}
 		case 4:{
@@ -24,7 +24,7 @@ int main () {
 			break;
 		}
 		default: {
-			printf("OpÁ„o digitada n„o valida");
+			printf("Op√ß√£o digitada n√£o valida");
 			break;
 		}
 	}
